@@ -5,4 +5,4 @@ Projekt etherum powstał w 2013 roku za sprawą rosyjsko-kanadyjskiego programis
 ## Kurs etherum
 
 Podobnie jak bitcoin, etherum zmienia swoją wartość bardzo nagle i często. Tak samo, jak BTC, etherum zanotowało imponujący wzrost od lat 2016-17 do teraz. Jak widac na wykresie, w 2016 roku 1 ETH można było nabyć za niespełna dolara, podczas gdy raptem 5 lat później płacono za nie nawet 4000 USD.
-<img src="Tu podaj względną ścieżkę dostępu do obrazka" alt="ppp">
+<img src="1632145368_ethereum-wykres.png" alt="ppp">
